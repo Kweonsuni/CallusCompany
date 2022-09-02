@@ -19,13 +19,19 @@ Puzzles have been around for a long time, since the 18th century. [^1] People us
 
 ### Jigsaw Puzzle
 
+![figure1](/devblog/assets/2022-08-26-memory-games/figure1.png)
+
 Jigsaw puzzles are the most known type of puzzle. The original picture or image is given at first, and the solver has to find the pieces that align together from that image. During this process, players need to repeat the recognition of the original image which makes a puzzle great for training cognitive skills.[^2]
 
 ### Sudoku
 
+![figure2](/devblog/assets/2022-08-26-memory-games/figure2.png)
+
 Sudoku is a number puzzle that invovles filling the square with numbers 1 through 9. As the same number can't be in a 3 * 3 square, horizontal line, and a vertical line, players need to constantly remember the location of the numbers. [^3]
 
 ### Word Puzzles (Crosswords)
+
+![figure3](/devblog/assets/2022-08-26-memory-games/figure3.png)
 
 Word puzzles invovle finding real life words, whether common or uncommon. Crosswords, where solvers have to remember words by looking at definitions, fill out the lines while keeping the intersecting letters the same. If not looking at the dictionary, it is required for solvers to remember the words and remember the letters they had already written down, it can helpful in memorization. Crosswords are found to slow down the process of dementia and memory decline. [^4]
 
@@ -35,9 +41,13 @@ Word puzzles invovle finding real life words, whether common or uncommon. Crossw
 
 ### Professor Layton
 
+![figure4](/devblog/assets/2022-08-26-memory-games/figure4.png)
+
 Professor Layton is an adventure puzzle game series created by Level-5 Inc. Players have to find clues to solve mysteries by solving puzzles along the way. There are more than 100 puzzles, which involves a lot of cognitive skills and memorization. 
 
 ### Brain Age
+
+![figure5](/devblog/assets/2022-08-26-memory-games/figure5.png)
 
 Brain Age, also known as Brain Training, is a puzzle game series inspired by Ryuta Kawashima. A collection of puzzles using words, sounds, and numbers, Brain Age really helps to increase cognitive skills of players. 
 
