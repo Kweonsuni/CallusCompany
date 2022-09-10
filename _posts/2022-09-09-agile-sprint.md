@@ -21,13 +21,13 @@ Writing a story in the customer's point of view helps to determine whether the p
 
 ### Requirements (DOD)
 
-Requirements, also referred as Definitions of Done (DOD), are detailed descriptions of what the developer needs to exactly create through coding. Precise measurements need to be aligned, such as angles, length, and height. 
+Requirements, also referred as Definitions of Done (DOD), are detailed descriptions of what the developer needs to exactly create through coding. Precise measurements need to be aligned, such as angles, length, and height.
 
-All applications that designers include need to be reasonable, or it would lead to wasting the time and effort of the developer. 
+All applications that designers include need to be reasonable, or it would lead to wasting the time and effort of the developer.
 
-It also shouldn't be focusing on what the app/program doesn't include, since the creative process can be endless. Developers need to focus on the core requirements on what the app must need in order to function properly. 
+It also shouldn't be focusing on what the app/program doesn't include, since the creative process can be endless. Developers need to focus on the core requirements on what the app must need in order to function properly.
 
-This outline of the UI and fuctions would prevent any misunderstanding between the designers and developers and guide the whole product team to create the expected program. 
+This outline of the UI and fuctions would prevent any misunderstanding between the designers and developers and guide the whole product team to create the expected program.
 
 ## Conclusion
 
