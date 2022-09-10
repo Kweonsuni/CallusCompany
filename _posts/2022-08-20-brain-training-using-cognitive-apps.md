@@ -6,8 +6,6 @@ date:   2022-08-20 23:03:55 -0500
 categories: jekyll update
 ---
 
-> Reference: Bonnechère et al. 2021. Brain training using cognitive apps can improve cognitive performance and processing speed in older adults. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8192763/)
-
 ## Introduction
 
 ---
@@ -42,3 +40,5 @@ As for the initial scores, we observed an interesting linear trend between age a
     > 1. Li,T.etal.Cognitivetrainingcanreducetherateofcognitiveaging:Aneuroimagingcohortstudy.BMCGeriatr.16,12(2016).
     > 1. van de Vijver, I., Ridderinkhof, K. R. & de Wit, S. Age-related changes in deterministic learning from positive versus negative performance feedback. Neuropsychol. Dev. Cogn. B Aging Neuropsychol. Cogn. 22, 595–619 (2015).
     > 1. Raz,N.Declineandcompensationinagingbrainandcognition:Promisesandconstraints.Preface.Neuropsychol.Rev.19,411–414 (2009).
+
+> Reference: Bonnechère et al. 2021. Brain training using cognitive apps can improve cognitive performance and processing speed in older adults. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8192763/)

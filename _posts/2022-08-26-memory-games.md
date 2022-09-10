@@ -5,7 +5,7 @@ date: 2022-08-26 20:00:00 -0500
 categories: jekyll update
 ---
 
-## Intro
+## Introduction
 
 ---
 

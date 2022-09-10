@@ -21,7 +21,7 @@ In order to start sprints for a project, the design team is required to follow p
 
 ### Story
 
-Writing a story in the customer's point of view helps to determine whether the product will be effective. If they have a certain problem or discomfort, designers aim to find a solution for them. 
+Writing a story in the customer's point of view helps to determine whether the product will be effective. If they have a certain problem or discomfort, designers aim to find a solution for them.
 
 ![figure2](/devblog/assets/2022-09-09-agile-sprint/figure2.png)
 
