@@ -5,9 +5,13 @@ date: 2022-09-09 21:00:00 -0500
 categories: jekyll update
 ---
 
-## Intro
+## Introduction
 
-Agile, also known as Scrum, is a work method involving small repeated steps to complete a computer software or a project.[^1] Sprints are these repeated steps or iterations that designers plan to accomplish. Time is evenly distributed between sprints in order for the develop team to feel less pressure and more achievement along the way.
+---
+
+![figure1](/devblog/assets/2022-09-09-agile-sprint/figure1.png)
+
+Agile, also known as Scrum, is a work method involving small repeated steps to complete a computer software or a project. [^1] Sprints are these repeated steps or iterations that designers plan to accomplish. Time is evenly distributed between sprints in order for the develop team to feel less pressure and more achievement along the way.
 
 As the name suggests, sprints are relatively short in time. Most sprints fall in between one week to one month time periods. This shows that sprints really encourage developers to focus their effort in the tasks for every sprint. [^2]
 
@@ -17,7 +21,11 @@ In order to start sprints for a project, the design team is required to follow p
 
 ### Story
 
-Writing a story in the customer's point of view helps to determine whether the product will be effective. If they have a certain problem or discomfort, designers aim to find a solution for them. For example, if a customer doesn't want to spend money on every movie they watch, designers would find a solution of creating a subscription app such as Netflix that gathers millions of movies and shows for viewers to watch. [^3]
+Writing a story in the customer's point of view helps to determine whether the product will be effective. If they have a certain problem or discomfort, designers aim to find a solution for them. 
+
+![figure2](/devblog/assets/2022-09-09-agile-sprint/figure2.png)
+
+For example, if a customer doesn't want to spend money on every movie they watch, designers would find a solution of creating a subscription app such as Netflix that gathers millions of movies and shows for viewers to watch. [^3]
 
 ### Requirements (DOD)
 
