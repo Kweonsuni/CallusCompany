@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## Intro
 
-Information Architecture is a method of visualizing the structure of apps and programs. Creating IA helps developers to know how people can interact with the app and design it according to the structure. If there are problems with the structure, developers can easily edit 
+Information Architecture is a method of visualizing the structure of apps and programs. Creating IA helps developers to know how people can interact with the app and design it according to the structure. If there are problems with the structure, developers can easily edit
 
 ## Kakaotalk
 
@@ -46,3 +46,7 @@ The More menu gathers many more features Kakaotalk can provide. Kakao Pay is a w
 ### Advertisments
 
 Kakaotalk has added advertisements to all 5 menus. Since almost everyone is using it, many Korean companies recognize the potential value of advertising through the app. Kakaotalk also post their own advertisments for other Kakao apps as well as character merchandise.
+
+### Conclusion
+
+Though Kakaotalk has evolved over a long period, there are major problems with the IA design. All menus rely on scrolling down the page, which limits the amount of content people would actually find. Categorizing and 
