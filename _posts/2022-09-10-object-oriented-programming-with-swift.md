@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Object Oriented Programming with swift"
-date: 2022-09-03 4:48:49 +0900
-categories: Ideas
+title: "Object Oriented Programming With Swift"
+date: 2022-09-10 21:00:00 -0500
+categories: jekyll update
 ---
 ​
 ## Introduction
-​
-We are gonna learn about the `Swift` way of handling variables and functions.
-​
+
 ---
+
+![figure1](/devblog/assets/2022-09-10-object-oriented-programming-with-swift/figure1.png)
+
+`Swift` is a programming language created by Apple which is used to develop programs for Apple Products (Mac, iPhone, iPad). Like any other language, object oriented programming is crucial in developing a simple and efficient program.
 ​
 ## Storing number to a variable
 ​
