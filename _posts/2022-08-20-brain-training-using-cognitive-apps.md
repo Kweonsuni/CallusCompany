@@ -3,7 +3,7 @@ layout: post
 title:  "Study: Brain training using cognitive apps can improve cognitive performance and processing speed in older
 adults"
 date:   2022-08-20 23:03:55 -0500
-categories: jekyll update
+categories: GoldenBrain
 ---
 
 ## Introduction
