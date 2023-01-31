@@ -2,7 +2,7 @@
 layout: post
 title: "Memory Games : An Approach to Prevent Alzhiemer's"
 date: 2022-08-26 20:00:00 -0500
-categories: jekyll update
+categories: GoldenBrain
 ---
 
 ## Introduction

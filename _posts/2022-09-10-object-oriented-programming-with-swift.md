@@ -2,7 +2,7 @@
 layout: post
 title: "Object Oriented Programming With Swift"
 date: 2022-09-10 21:00:00 -0500
-categories: jekyll update
+categories: GoldenBrain
 ---
 ​
 ## Introduction

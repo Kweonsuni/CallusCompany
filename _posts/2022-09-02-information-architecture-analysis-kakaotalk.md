@@ -2,7 +2,7 @@
 layout: post
 title: "Information Architecture (IA) Analysis: Kakaotalk"
 date: 2022-09-02 21:00:00 -0500
-categories: jekyll update
+categories: GoldenBrain
 ---
 
 ## Introduction

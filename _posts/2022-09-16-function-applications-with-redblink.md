@@ -2,7 +2,7 @@
 layout: post
 title: "Applying functions to create RedBlink"
 date: 2022-09-16 21:00:00 -0500
-categories: jekyll update
+categories: GoldenBrain
 ---
 
 ## Introduction

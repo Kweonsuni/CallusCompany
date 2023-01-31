@@ -2,7 +2,7 @@
 layout: post
 title: "Agile Sprint"
 date: 2022-09-09 21:00:00 -0500
-categories: jekyll update
+categories: GoldenBrain
 ---
 
 ## Introduction
